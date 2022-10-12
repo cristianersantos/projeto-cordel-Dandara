@@ -87,22 +87,22 @@
 }
 
 section#img01 {
-   background-image: url('../imagens/mulheres-fantasticas_consciencia-negra_animacao.jpg');
-   background-position: left center;
+   background-image: url('../imagens/');
+   background-position: right center;
    
 
 }
 
 section#img02 {
    background-image: url('../imagens/Sem\ título.png');
-   background-position: left center;
+   background-position: right center;
    background-size: cover;
 
 }
 
 section#img03 {
    background-image: url('../imagens/Dandara.jpg');
-   background-position: left center;
+   background-position: right center;
    background-size: cover;
    
 }
