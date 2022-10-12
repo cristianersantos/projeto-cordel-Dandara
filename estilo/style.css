@@ -88,19 +88,19 @@
 
 section#img01 {
    background-image: url('../imagens/dandar03.png');
-   background-position: center center;
+   background-position: right center;
 }
 
 section#img02 {
    background-image: url('../imagens/dandara02.png');
-   background-position: center center;
+   background-position: right center;
    background-size: cover;
 
 }
 
 section#img03 {
    background-image: url('../imagens/Dandara.jpg');
-   background-position: center center;
+   background-position: right center;
    background-size: cover;
    
 }
