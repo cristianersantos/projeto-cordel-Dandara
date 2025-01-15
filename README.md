@@ -32,4 +32,4 @@ Contribuições são bem-vindas! Se você encontrar algum bug, tiver alguma suge
     * https://fonts.googleapis.com/css2?family=Passion+One&family=Sriracha&display=swap
 
 
-**Este projeto é um tributo à história e à luta de Dandara dos Palmares. Esperamos que você aprecie esta homenagem.**
+**Este projeto é um tributo à história e à luta de Dandara dos Palmares. Espero que você aprecie esta homenagem.**
