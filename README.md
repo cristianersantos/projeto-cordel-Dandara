@@ -25,7 +25,7 @@ Para visualizar o projeto, acesse (https://cristianersantos.github.io/projeto-co
 Contribuições são bem-vindas! Se você encontrar algum bug, tiver alguma sugestão de melhoria ou quiser adicionar novas funcionalidades, sinta-se à vontade para abrir um pull request. Esse é um projeto de iniciante em estudos de HTML e CSS :D
 
 ### Créditos
-* **Conteúdo:** Adaptado das aulas do MÓDULO 03 DO CURSO EM VÍDEO -Porjeto Cordel - Prof. Gustavo Guanabara.
+* **Conteúdo:** Adaptado das aulas MÓDULO 03 - CURSO EM VÍDEO -Projeto Cordel - Prof. Gustavo Guanabara.
 * **Adaptação:** Texto original utilizado no meu projeto: POR JARID ARRAES.
 * **Desenvolvimento:** Cristiane R Santos
 * **Fontes:**
