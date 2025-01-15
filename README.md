@@ -1,4 +1,4 @@
-## Cordel de Dandara dos Palmares: Um tributo em HTML, CSS e Parallax
+## Projeto Cordel de Dandara dos Palmares: Conhecimentos em HTML, CSS e Parallax
 
 ### Sobre o Projeto
 Este projeto foi desenvolvido com os conhecimentos que adquiri no curso HTML E CSS - MÓDULO 03 do Prof. Gustavo Guanabara.
